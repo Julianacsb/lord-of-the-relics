@@ -3,7 +3,7 @@ Sistema operacional: Windows
 Programa em C que implementa um jogo de labirinto
 */
 
-////////////////////////INCLUSAO DE BIBLIOTECAS////////////////////////
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
